@@ -2,5 +2,5 @@
  layout: slide
  title: "Welcome to our second slide!"
  --- 
-Your text
+ Kopsnij w lewo by isc do tylca
  Use the left arrow to go back!
